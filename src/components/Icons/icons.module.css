@@ -1,0 +1,48 @@
+
+.headerIcon {
+   width: 2rem;
+   height: 2rem;
+   margin-top: 5px;
+}
+
+@media (min-width: 768px) {
+  .headerIcon {
+    width: 2.5rem;
+    height: 2.5rem;
+    margin-top: 5px;
+  }
+}
+
+.headerFavIcon {
+  width: 2.8rem;
+  height: 2.8rem;
+  margin-top: 4px;
+}
+
+@media (min-width: 768px) {
+ .headerFavIcon {
+   width: 3rem;
+   height: 3rem;
+   margin-top: 4px;
+ }
+}
+
+.headerUserIcon {
+  width: 2.5rem;
+  height: 2.5rem;
+  margin: 6px 10px 0;
+}
+
+@media (min-width: 768px) {
+ .headerUserIcon {
+   width: 2.6rem;
+   height: 2.6rem;
+   margin: 6px 10px 0;
+ }
+}
+
+.floatIcon{
+  width:1.25rem;
+  height: 1.25rem;
+ 
+}

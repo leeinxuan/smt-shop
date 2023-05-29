@@ -1,0 +1,38 @@
+.hrFooterLine{
+    width: 65%;
+    height: 3px;
+    background-color: #F18BA2;
+    border: 0;
+
+}
+
+.Footer{
+    text-align: center;
+    
+}
+
+.webName{
+    font-size: 36px;
+    font-weight: 500;
+    color: #424767;
+    margin:20px auto 20px auto ;
+}
+
+.IconArea{
+    display: flex;
+    justify-content: center;
+
+}
+
+.icon{
+    width: 58px;
+    height: 58px;
+    margin: 0 20px 0 20px;
+}
+
+
+.copyRight{
+    font-size:16px ;
+    color: #424767;
+    margin:20px auto 20px auto;
+}

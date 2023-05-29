@@ -1,0 +1,22 @@
+.navItem {
+    font-size: 0.8rem;
+    margin:0;
+    margin-right: 5rem;
+    
+    cursor: pointer;
+    
+    opacity: 0.6;
+    text-decoration: none;
+    transition: all 0.5s ease-in-out;
+  }
+  
+  .navItem:hover {
+  
+    opacity: 1;
+    text-shadow: 0px 0px 30px white;
+  }
+  
+  .navItemActive {
+    composes: navItem;
+    opacity: 1;
+  }

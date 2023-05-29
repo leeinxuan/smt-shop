@@ -1,0 +1,15 @@
+.layout {
+    padding: 0 50px 0 50px;
+    margin-bottom: 30px;
+}
+.spinner{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+@media (min-width: 992px) {
+    .layout {
+        padding: 0 200px 0 200px;
+        margin-bottom: 50px;
+    }
+}

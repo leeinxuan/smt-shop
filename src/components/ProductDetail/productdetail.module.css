@@ -1,0 +1,139 @@
+.info {
+    margin: 50px 0;
+    border: 6px solid #747BA8;
+    border-radius: 2.5rem;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 85%;
+    align-items: center;
+    padding-top: 17px;
+}
+
+.info img {
+    margin: 0;
+    width: 17rem;
+    height: 17rem;
+}
+
+.author {
+    font-size: 1rem;
+    margin-top: 1rem;
+}
+
+.name {
+    font-size: 1.25rem;
+}
+
+.text {
+    font-size: 1rem;
+    margin: 1.1rem 0;
+}
+
+.word {
+    font-size: 1.25rem;
+    margin: 2.3rem 0;
+}
+
+.qty {
+    font-size: 1.625rem;
+    margin: 2rem 0 2.3rem;
+}
+
+.sum {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+
+@media (min-width: 768px) {
+    .info {
+        border: 6px solid #747BA8;
+        border-radius: 4.25rem;
+        margin: 100px 0;
+        height: 100%;
+        width: 85%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        padding-top: 71px;
+    }
+
+    .info img {
+        width: 30rem;
+        height: 30rem;
+    }
+
+    .author {
+        font-size: 1.875rem;
+    }
+
+    .name {
+        font-size: 2rem;
+        color: #434868;
+    }
+
+    .text {
+        font-size: 1.875rem;
+        margin: 3.125rem 0;
+    }
+
+    .word {
+        font-size: 1.625rem;
+        margin: 3.5rem 0;
+    }
+
+    .qty {
+        font-size: 2.25rem;
+        margin-bottom: 3.5rem;
+        margin-top: 2.75rem;
+    }
+
+}
+
+@media (min-width: 992px) {
+    .info {
+        border: 6px solid #747BA8;
+        border-radius: 4.25rem;
+        margin: 100px 0;
+        width: 80rem;
+        height: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        padding: 70px 0 70px 0;
+    }
+
+    .info img {
+        margin-right: 70px;
+        width: 33rem;
+        height: 33rem;
+    }
+
+    .author {
+        font-size: 1.875rem;
+    }
+
+    .name {
+        font-size: 2rem;
+        color: #434868;
+    }
+
+    .text {
+        font-size: 1.875rem;
+        margin: 3.125rem 0;
+    }
+
+    .word {
+        font-size: 1.625rem;
+        margin: 3.5rem 0;
+    }
+
+    .qty {
+        font-size: 2.25rem;
+        margin-bottom: 3.5rem;
+        margin-top: 2.75rem;
+    }
+
+}

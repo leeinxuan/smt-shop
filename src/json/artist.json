@@ -1,0 +1,116 @@
+[
+    {   
+        "id":"1",
+        "name":"KANGTA",
+        "image":"/images/ARTIST/artist_kangta.jpg",
+        "category":"solo",
+        "slogan":"High-five Of Teenagers"
+    },
+
+    {
+        "id":"2",
+        "name":"BOA",
+        "image":"/images/ARTIST/artist_boa.jpeg",
+        "category":"solo",
+        "slogan":"Jumping BoA"
+        
+    },
+
+    {
+        "id":"3",
+        "name":"TVXQ",
+        "image":"/images/ARTIST/artist_TVXQ.jpg",
+        "category":"boys-team",
+        "slogan":"Cassiopeia"
+        
+    },
+
+    {
+        "id":"4",
+        "name":"SUPER JUNIOR",
+        "image":"/images/ARTIST/artist_SJ.jpg",
+        "category":"boys-team",
+        "slogan":"우리는슈퍼주니어에요!"
+        
+    },
+
+    {
+        "id":"5",
+        "name":"GIRLS'GENERATION",
+        "image":"/images/ARTIST/artist_snsd.jpg",
+        "category":"girls-team",
+        "slogan":"지금은 소녀시대！앞으로도 소녀시대！영원히 소녀시대！"
+        
+    },
+
+    {
+        "id":"6",
+        "name":"SHINee",
+        "image":"/images/ARTIST/artist_shinee2.jpg",
+        "category":"boys-team",
+        "slogan":"빛나는샤이니입니다!"
+        
+    },
+
+    {
+        "id":"7",
+        "name":"F(X)",
+        "image":"/images/ARTIST/artist_f(x).jpg",
+        "category":"girls-team",
+        "slogan":"f(x) fighting"
+        
+    },
+
+    {
+        "id":"8",
+        "name":"EXO",
+        "image":"/images/ARTIST/artist_exo.jpeg",
+        "category":"boys-team",
+        "slogan":"WE ARE ONE"
+    },
+
+    {
+        "id":"9",
+        "name":"RED VELVET",
+        "image":"/images/ARTIST/artist_rv2.jpg",
+        "category":"girls-team",
+        "slogan":"Happiness!"
+    },
+
+    {
+        "id":"10",
+        "name":"NCT",
+        "image":"/images/ARTIST/artist_nct.jpg",
+        "category":"boys-team",
+        "slogan":"To the world"
+        
+    },
+
+    {
+        "id":"11",
+        "name":"aespa",
+        "image":"/images/ARTIST/artist_aespa.jpeg",
+        "category":"girls-team",
+        "slogan":"Be my æ"
+        
+    },
+
+    {
+        "id":"12",
+        "name":"SUPER M",
+        "image":"/images/ARTIST/artist_superm.jpeg",
+        "category":"boys-team",
+        "slogan":"MATRIX & MASTER"
+        
+    },
+
+    {
+        "id":"13",
+        "name":"GOT THE BEAT",
+        "image":"/images/ARTIST/artist_gotthebeat.jpeg",
+        "category":"girls-team",
+        "slogan":"Girls On Top"
+        
+    }
+
+]

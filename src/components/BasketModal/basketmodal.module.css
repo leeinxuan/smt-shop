@@ -1,0 +1,62 @@
+/* Cart */
+.name{
+    font-size: 20px;
+}
+.btn {
+    width: 100%;
+    font-size: 1.3rem;
+    font-weight: 500;
+    padding: 0.7rem;
+    height: auto;
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+}
+
+.item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+    border-bottom: 1px #676666 solid;
+}
+
+.image {
+    margin-left: 1.5rem;
+    max-width: 8.5rem;
+    max-height: 8.5rem;
+    flex: 1 1;
+}
+
+.content {
+    margin-left: 1.5rem;
+    flex: 8 1;
+}
+
+.price {
+    font-size: 1rem;
+    font-weight: bold;
+    text-align: right;
+    
+}
+
+.delete {
+    font-size: 1.2rem;
+    opacity: 0.6;
+    text-align:right;
+    cursor: pointer;
+}
+
+.wrap {
+    font-size: large;
+    display: flex;
+    justify-content: space-between;
+}
+.totalPrice {
+    font-weight: bold;
+    text-align: right;
+}

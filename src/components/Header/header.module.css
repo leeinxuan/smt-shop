@@ -1,0 +1,46 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 85px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    z-index: 9999;
+}
+.placeholder {
+    height: 85px; /* 與Header的高度相同 */
+  }
+
+
+.logo{
+    display: flex;
+    height: 48px;
+    width: auto;
+    margin-left: 100px;
+}
+
+.IconArea{
+    display: flex;
+    margin-right: 1rem;
+  align-items: center;
+}
+
+.icon{
+    height: 40px;
+    width: 40px;
+    margin: 0 1rem ;
+   
+}
+
+@media (min-width: 768px) {
+    .logo{
+        display: flex;
+        height: 48px;
+        width: auto;
+        margin-left: 70px;
+    }
+    
+  }
+
+  

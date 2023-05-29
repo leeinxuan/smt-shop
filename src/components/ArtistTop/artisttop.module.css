@@ -1,0 +1,18 @@
+.layout{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 50px;
+}
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:solid 4px #F18BA2;
+    border-radius:22px ;
+    width: 225px;
+    height: 75px;
+    font-weight: 600;
+    color: #414666;
+    margin-top: 4rem;
+}

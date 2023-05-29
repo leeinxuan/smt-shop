@@ -1,0 +1,13 @@
+.userIcon{
+    margin: 0 20px;
+}
+.userInfo{
+    cursor: pointer;
+    
+}
+
+.userInfo p{
+    font-size: 12px;
+    margin: -10px 0 ;
+    padding-left: 15px;
+}

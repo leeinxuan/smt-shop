@@ -1,0 +1,85 @@
+.ContentArea{
+    display: flex;
+    flex-direction: column;
+    padding: 0 50px 0 50px ;
+}
+
+.titleArea{
+    display: flex;
+    flex-direction:column;
+}
+
+.kpoparea h1{
+    margin: 0;
+    font-size: 32px;
+    font-weight: 500;
+}
+
+.sment{
+    color: #F18BA2;
+    font-size: 40px;
+    font-weight: 600;
+    margin: 0;
+    display: flex;
+    align-items: flex-end;
+}
+.smpic{
+    height: 300px;
+    object-fit: cover;
+    margin-bottom: 50px;
+    width: 100%;
+}
+.description{
+    letter-spacing: 1px;
+    font-family: 'Alegreya Sans';
+    font-weight: 500;
+}
+
+@media (min-width: 768px) {
+    .ContentArea{
+        padding: 0 80px 0 80px ;
+    }
+    .smpic{
+        height: 445px;
+        object-fit: cover;
+        margin-bottom: 50px;
+    }
+    .titleArea{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    .kpoparea h1{
+        font-size: 32px;
+    }
+    .sment{
+        font-size: 40px;
+        display: flex;
+        align-items: flex-end;
+    }
+  
+  }
+  @media (min-width: 992px) {
+    .ContentArea{
+        padding: 0 200px 0 200px ;
+    }
+    .smpic{
+        height: 445px;
+        object-fit: cover;
+        margin-bottom: 50px;
+    }
+    .titleArea{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    .kpoparea h1{
+        font-size: 46px;
+    }
+    .sment{
+        font-size: 52px;
+        display: flex;
+        align-items: flex-end;
+    }
+  
+  }

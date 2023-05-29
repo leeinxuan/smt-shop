@@ -1,0 +1,111 @@
+[
+    { 
+      "id": "1",
+      "category": "Fashion",
+      "author": "NCT 127",
+      "name": "Cherry Bomb Dad Hat",
+      "sku": "NCT",
+      "price": 27.17,
+      "image": "/images/@smglobalshop 2023-03-31__003819.JPEG",
+      "description": "NCT 127 ",
+      "currency": "USD",
+      "countInStock": 9    
+    },
+    {
+      "id": "2",
+      "category": "Exclusive",
+      "author": "SHINee",
+      "name": "11 Anniversary Collect Book",
+      "sku": "SHINee",
+      "price": 55.00,
+      "image": "/images/67119651_2322521471322496_4711063822526954047_n.JPG",
+      "description": "SHINee",
+      "currency": "USD",
+      "countInStock": 5    
+    },
+    {
+      "id": "3",
+      "category": "Exclusive",
+      "author": "BAEKHYUN",
+      "name": "[Teo-Lae-Gi]Flat Magnet Ver.",
+      "sku": "EXO",
+      "price": 10.85,
+      "image": "/images/pre-order-teo-lae-gi-flat-magnet-ver-you-have-to-protect-me-620429_2400x.jpg.webp",
+      "description": "EXO",
+      "currency": "USD",
+      "countInStock": 6 
+    },
+    {
+      "id": "4",
+      "category": "Photobook",
+      "author": "Girls' Generation-Oh!GG",
+      "name": "SEASON'S GREETING 2023",
+      "sku": "SNSD",
+      "price": 41.58,
+      "image": "/images/snsd oh gg 2022 season's greetings (2).jpg",
+      "description": "Girls' Generation-Oh!GG",
+      "currency": "USD",
+      "countInStock": 9 
+    },
+    {
+      "id": "5",
+      "category": "Exclusive",
+      "author": "NCT",
+      "name": "Empathy 2018 Stationary Clip",
+      "sku": "NCT",
+      "price": 82.00,
+      "image": "/images/koreas-exclusive-product-nct-empathy-2018-stationary-clip-with-tin-case-474560_2400x.jpg",
+      "description": "NCT",
+      "currency": "USD",
+      "countInStock": 7 
+    },
+    {
+      "id": "6",
+      "category": "Exclusive",
+      "author": "Super Junior",
+      "name": "One More Chance Mini Notebook",
+      "sku": "SJ",
+      "price": 68.20,
+      "image": "/images/koreas-exclusive-product-super-junior-one-more-chance-mini-binder-notebook-673975_2400x.jpg",
+      "description": "SUPER JUNIOR",
+      "currency": "USD",
+      "countInStock": 3 
+    },
+    {
+      "id": "7",
+      "category": "Concert",
+      "author": "SHINee",
+      "name": "Official Fanlight",
+      "sku": "SHINee",
+      "price": 37.62,
+      "image": "/images/shinee-official-fanlight-lightstick-accessories-shinee-default-title-254481_2400x.jpg.webp",
+      "description": "SHINee",
+      "currency": "USD",
+      "countInStock": 3
+    },
+    {
+      "id": "8",
+      "category": "Exclusive",
+      "author": "Red Velvet",
+      "name": "Who Dat Boy Wide Tape",
+      "sku": "RV",
+      "price": 27.90,
+      "image": "/images/koreas-exclusive-product-red-velvet-who-dat-boy-wide-tape-accessories-red-velvet-139188_2400x.jpg",
+      "description": "RED VELVET",
+      "currency": "USD",
+      "countInStock": 5
+    },  
+    {
+      "id": "9",
+      "category": "Album",
+      "author": "TAEYEON",
+      "name": "The 3rd Album 'INVU'(Tape ver.)",
+      "sku": "SNSD",
+      "price": 22.00,
+      "image": "/images/taeyeon-the-3rd-album-invu-tape-ver-755665_2400x.jpg",
+      "description": "Girls' Generation",
+      "currency": "USD",
+      "countInStock": 3 
+    }
+  ]
+  
