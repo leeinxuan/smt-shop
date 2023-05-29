@@ -1,1 +1,1 @@
-# smt-shop
+# smt-store
